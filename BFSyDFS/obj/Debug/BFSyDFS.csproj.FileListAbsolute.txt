@@ -1,0 +1,14 @@
+C:\Users\lluis\Desktop\8vo Semestre\Fundamentos de IA\BFSyDFS\BFSyDFS\bin\Debug\BFSyDFS.exe.config
+C:\Users\lluis\Desktop\8vo Semestre\Fundamentos de IA\BFSyDFS\BFSyDFS\bin\Debug\BFSyDFS.exe
+C:\Users\lluis\Desktop\8vo Semestre\Fundamentos de IA\BFSyDFS\BFSyDFS\bin\Debug\BFSyDFS.pdb
+C:\Users\lluis\Desktop\8vo Semestre\Fundamentos de IA\BFSyDFS\BFSyDFS\obj\Debug\BFSyDFS.csprojAssemblyReference.cache
+C:\Users\lluis\Desktop\8vo Semestre\Fundamentos de IA\BFSyDFS\BFSyDFS\obj\Debug\BFSyDFS.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Desktop\8vo Semestre\Fundamentos de IA\BFSyDFS\BFSyDFS\obj\Debug\BFSyDFS.exe
+C:\Users\lluis\Desktop\8vo Semestre\Fundamentos de IA\BFSyDFS\BFSyDFS\obj\Debug\BFSyDFS.pdb
+C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\BFSyDFS\BFSyDFS\bin\Debug\BFSyDFS.exe.config
+C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\BFSyDFS\BFSyDFS\bin\Debug\BFSyDFS.exe
+C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\BFSyDFS\BFSyDFS\bin\Debug\BFSyDFS.pdb
+C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\BFSyDFS\BFSyDFS\obj\Debug\BFSyDFS.csprojAssemblyReference.cache
+C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\BFSyDFS\BFSyDFS\obj\Debug\BFSyDFS.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\BFSyDFS\BFSyDFS\obj\Debug\BFSyDFS.exe
+C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\BFSyDFS\BFSyDFS\obj\Debug\BFSyDFS.pdb
